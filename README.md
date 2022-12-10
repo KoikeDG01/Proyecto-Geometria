@@ -44,5 +44,10 @@ del 2022, lo que nos permite visualizar y ver, en lo picos loss meses en que ha 
 
 ## Resultados
 
-conclusiones y bibliografía.
-licencia
+![Grafica de las visulizaciones de Ibai](Figure_1.png)
+
+
+## conclusiones y bibliografía.
+Podemos ver que se puede apreciar claramente el mes en el que hubo el evento más garnde de su canal en desde el inicio del 2021 hasta Noviembre del presente 2022
+
+

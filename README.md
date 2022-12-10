@@ -1,4 +1,4 @@
-## Título
+## GRRAFICA DE VISUALIZACION DE DATOS DEL STREAMER DE TWICH,IBAI
 
 #### Autor
   Jorge Humberto Bolaños Ruiz
@@ -49,5 +49,9 @@ del 2022, lo que nos permite visualizar y ver, en lo picos loss meses en que ha 
 
 ## conclusiones y bibliografía.
 Podemos ver que se puede apreciar claramente el mes en el que hubo el evento más garnde de su canal en desde el inicio del 2021 hasta Noviembre del presente 2022
+
+Los datos para esta grafica, fueron obtenidos de:
+
+    https://twitchtracker.com/ibai/statistics
 
 
